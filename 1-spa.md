@@ -1,4 +1,4 @@
-# Problem 2 : single page application
+# Excercise 1 : single page application
 
 We need you to build us a small single page application vuejs to manage class.
 
