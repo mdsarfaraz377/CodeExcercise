@@ -1,6 +1,6 @@
 # Excercise 1 : single page application
 
-We need you to build us a small single page application on vuejs to manage class.
+We need you to build us a small single page application on [vuejs](https://vuejs.org/) to manage class.
 
 ## How we want it to work
 
