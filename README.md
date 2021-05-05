@@ -7,11 +7,11 @@ We have created this exercise in order to gain insights into your development sk
 
 ## What to do?
 
-We have several problems to solve. Our recruiter would have normally told you which one(s) to solve.
+We have several excercise to solve. Our recruiter would have normally told you which one(s) to solve.
 
-You are free to use whatever technologies you want, unless instructed otherwise.
+You find details in each excercise which technologies you have to use, unless instructed otherwise.
 
-- problem - 1
+- [Excercise 1 : single page application](./1-spa.md)
 
 ## Procedure
 
