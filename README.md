@@ -19,7 +19,7 @@ We would like you to send us (a link to) a git repository (that we can access).
 
 Make sure to add some documentation on how to run your app.
 
-There is 10 days time limit on this exercise, take 5 days to show us your development skills.
+There is 5 days time limit on this exercise, take 5 days to show us your development skills.
 
 ## Problems?
 
