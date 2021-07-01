@@ -24,7 +24,7 @@ You can assume these are in the format of the real external API.
 
 To create the class, just log it on the console, but make sure we can plug in the real api endpoint easily.
 
-_NOTE: In this excersiose you have to read/ add/ modify data using JSON file not using an array variable._
+_NOTE: In this coding exercises you have to read/ add/ modify data using JSON file not using an array variable._
 
 ---
 
