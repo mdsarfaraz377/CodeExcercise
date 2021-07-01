@@ -11,15 +11,15 @@ We have several excercise to solve. Our recruiter would have normally told you w
 
 You find details in each excercise which technologies you have to use, unless instructed otherwise.
 
-- [Excercise 1 : single page application](./1-spa.md)
+- [Excercise 1 : one page application](./Excercise-1/ex1-one-page.md)
+- [Excercise 2 : single page application](./Excercise-2/ex2-spa.md)
+- [Excercise 3 : single page application](./Excercise-3/ex3-spa.md)
 
 ## Procedure
 
 We would like you to send us (a link to) a git repository (that we can access).  
 
 Make sure to add some documentation on how to run your app.
-
-There is 5 days time limit on this exercise, take 5 days to show us your development skills.
 
 ## Problems?
 
