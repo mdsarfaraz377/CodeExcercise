@@ -1,4 +1,4 @@
-# Excercise 1 : one-page website
+# Excercise 1 : one page website
 
 We need you to create a one-page website using [html](https://html.spec.whatwg.org/), [css](https://www.w3.org/Style/CSS/), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources), [bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 
