@@ -11,7 +11,7 @@ We have several excercise to solve. Our recruiter would have normally told you w
 
 You find details in each excercise which technologies you have to use, unless instructed otherwise.
 
-- [Excercise 1 : one page application](./Excercise-1/ex1-one-page.md)
+- [Excercise 1 : one page website](./Excercise-1/ex1-one-page.md)
 - [Excercise 2 : single page application](./Excercise-2/ex2-spa.md)
 - [Excercise 3 : single page application](./Excercise-3/ex3-spa.md)
 
