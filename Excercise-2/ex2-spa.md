@@ -26,4 +26,4 @@ _NOTE: In this coding exercises you have to read/ add/ modify data using JSON fi
 
 ---
 
-_If you not checked the general guidelines for our coding test? You can find them [here](./README.md)_
+_If you not checked the general guidelines for our coding test? You can find them [here](.././README.md)_
