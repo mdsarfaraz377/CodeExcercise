@@ -6,17 +6,18 @@ You are free to use whatever technologies you want from this [vuejs](https://vue
 
 ## How we want it to work
 
-- We need to be able to create the class and receive a confirmation message of its success (or failure)
-- Create one detail page of an class in that we can able to see the list of classes in table or list view
-- We need to be able to remove a class
+-	Create one dashboard page on that page we can able to create new class
+-	After creating class we can also able to see the classes in table or list view on the dashboard page
+-	We can able to update that class information
+-	We can able to delete that class
 
 ## APIs
 
-In the [class](./class/) directory, you can find a couple of class.
+In the [class](.././class/) directory, you can find a couple of class.
 You can assume these are in the format of the real external API.
 For now, you can use this dummy data, but make sure we can plug in the real api in easily.
 
-In the [data](./data/) directory, you can find source files for school data and student data, in case you need it.
+In the [data](.././data/) directory, you can find source files for school data and student data, in case you need it.
 You can assume these are in the format of the real external API.
 
 To create the class, just log it on the console, but make sure we can plug in the real api endpoint easily.
