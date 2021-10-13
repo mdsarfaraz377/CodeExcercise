@@ -15,11 +15,11 @@ You are free to use whatever technologies you want from this [vuejs](https://vue
 
 ## APIs
 
-In the [class](./class/) directory, you can find a couple of class.
+In the [class](.././class/) directory, you can find a couple of class.
 You can assume these are in the format of the real external API.
 For now, you can use this dummy data, but make sure we can plug in the real api in easily.
 
-In the [data](./data/) directory, you can find source files for school data and student data, in case you need it.
+In the [data](.././data/) directory, you can find source files for school data and student data, in case you need it.
 You can assume these are in the format of the real external API.
 
 To create the class, just log it on the console, but make sure we can plug in the real api endpoint easily.
@@ -28,4 +28,4 @@ _NOTE: In this coding exercises you have to read/ add/ modify data using JSON fi
 
 ---
 
-_If you not checked the general guidelines for our coding test? You can find them [here](./README.md)_
+_If you not checked the general guidelines for our coding test? You can find them [here](.././README.md)_
