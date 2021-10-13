@@ -29,4 +29,4 @@ In the [related files](relatedfiles/) directory, you can find all related files.
 
 ---
 
-_If you not checked the general guidelines for our coding test? You can find them [here](./README.md)_
+_If you not checked the general guidelines for our coding test? You can find them [here](.././README.md)_
